@@ -1,3 +1,4 @@
 This is demo file for git.
 updated the file for pull request
 this for fetch command
+new line addded to merge conflict
